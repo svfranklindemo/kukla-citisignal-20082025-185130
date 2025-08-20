@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/kukla/kukla-citisignal-ue/:/",
+      "/content/kukla/kukla-citisignal-ue/configuration:/.helix/config.json",
+      "/content/kukla/kukla-citisignal-ue/metadata:/metadata.json",
+      "/content/kukla/kukla-citisignal-ue/configs:/configs.json",
+      "/content/kukla/kukla-citisignal-ue/configs-stage:/configs-stage.json",
+      "/content/kukla/kukla-citisignal-ue/configs-dev:/configs-dev.json",
+      "/content/kukla/kukla-citisignal-ue/redirects:/redirects.json",
+      "/content/kukla/kukla-citisignal-ue/placeholders:/placeholders.json",
+      "/content/kukla/kukla-citisignal-ue/products/recommended-products:/products/recommended-products.json",
+      "/content/kukla/kukla-citisignal-ue/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/kukla/kukla-citisignal-ue/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/kukla/kukla-citisignal-ue",
       "/content/dam/citisignal/images/products/"
     ]
 }
